@@ -7,8 +7,8 @@
 #container{
     box-sizing: border-box;
     width: 1120px;
-    padding: 24px;
-    margin: 88px auto ;
+    
+    margin: 88px auto 0 ;
 }
 
 .headline{
@@ -104,4 +104,13 @@ h2 {
 }
 .card-travel ul li + li + li{
     color: #E95E10;
+}
+
+footer{
+    margin: 65px auto 48px;
+    text-align: center;
+}
+
+footer img {
+    vertical-align: middle;
 }
