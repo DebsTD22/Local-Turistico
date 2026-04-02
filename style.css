@@ -61,9 +61,14 @@ h2 {
     margin: 2px 0 8px;
 }
 
+.card-travel{
+    margin-bottom: 48px;
+}
+
 ol {
   list-style: none;
   padding: 0;
+  margin-bottom: 20px;
 }
 
 ol img{
@@ -75,16 +80,11 @@ ol img{
 
 ol li {
   display: flex;
-  margin-bottom: 20px;
 }
 
 .numero {
   font-weight: bold;
   font-size: 24px;
-}
-
-ol div {
-  margin: 0;
 }
 
 ol h3{
